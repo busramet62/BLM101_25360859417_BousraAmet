@@ -80,7 +80,7 @@ while True: # 3 sayısı girilmediği sürece çalışır
         yapi_sec = input("Yapı Seçimi (1 veya 2): ")
 
         # Hangi kapıları kullanacağını alalım
-        print("Kullanabileceğiniz kapılar: AND, OR, NOT, XOR, NAND, NOR")
+        print("Kullanabileceğiniz kapılar: AND, OR, XOR, NAND, NOR")
         kapi1 = input("1. İşlem Kapısı (Örn: AND): ")
         kapi2 = input("2. İşlem Kapısı (Örn: OR): ")
         
