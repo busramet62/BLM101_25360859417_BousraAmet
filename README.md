@@ -1,21 +1,24 @@
-## BLM101_25360859417_BousraAmet-
+## BLM101_25360859417_BousraAmet62
 # TEMEL MANTIK DEVRE SİMÜLATÖRÜ 
-Öğrenci Bilgileri: Bousra, AMET , 25360859417
-
-Proje Konusu: 3. Grup- Veri Manipülasyonu ve Mantık Kapıları
+Öğrenci Bilgileri: 
+* İsim : Bousra
+* Soyisim : AMET
+* Öğrenci no : 25360859417
+* Proje Konusu: 3. Grup- Veri Manipülasyonu ve Mantık Kapıları
+* Youtube : 
 
 ### Projenin özeti :
-Bu Python projesi, temel mantık kapılarını (AND, OR, NOT, XOR, NAND, NOR) simüle eden ve kullanıcı çıkış yapana kadar sürekli çalışan interaktif bir terminal uygulamasıdır. Program iki temel işlev sunar: İlk olarak, kullanıcının seçtiği belirli bir mantık kapısı için girilen 0 veya 1 değerlerine göre anlık işlem sonucu üretir; ikinci olarak ise üç değişkenli (A, B, C) daha karmaşık mantık devreleri için işlem önceliğini (parantez yerini) dikkate alarak tüm olası giriş kombinasyonlarını ($2^3$ ihtimal) hesaplayıp detaylı bir doğruluk tablosu oluşturur. Kod yapısı, iç içe döngüler ve koşullu ifadeler kullanarak Boolean cebiri mantığını pratik bir şekilde kodlamayı amaçlar.
+Bu Python projesi, temel mantık kapılarını (AND, OR, NOT, XOR, NAND, NOR) simüle eden ve kullanıcı çıkış yapana kadar sürekli çalışan interaktif bir terminal uygulamasıdır. Program iki temel işlev sunar: İlk olarak, kullanıcının seçtiği belirli bir mantık kapısı için girilen 0 veya 1 değerlerine göre anlık işlem sonucu üretir; ikinci olarak ise üç değişkenli (A, B, C) daha karmaşık mantık devreleri için işlem önceliğini (parantez yerini) dikkate alarak tüm olası giriş kombinasyonlarını hesaplayıp detaylı bir doğruluk tablosu oluşturur. Kod yapısı, iç içe döngüler ve koşullu ifadeler kullanarak Boolean cebiri mantığını pratik bir şekilde kodlamayı amaçlar.
 
 ### Özellikler
 
 Bu simülatör kullanıcılara 3 temel seçenek sunar:
 
 1.  **Tekil Kapı Hesaplama:** * Kullanıcıdan alınan giriş değerlerine (0 veya 1) göre seçilen kapının sonucunu anlık olarak hesaplar.
-    * Desteklenen kapılar: `AND`, `OR`, `NOT`, `XOR`, `NAND`, `NOR`.
+    * Desteklenen kapılar: `AND`, `OR`, `NOT`(Sadece 1. hesaplamada), `XOR`, `NAND`, `NOR`.
 2.  **Doğruluk Tablosu Oluşturma:** * 3 değişkenli (A, B, C) devrelerin tüm olasılıklarını (000'dan 111'e kadar) hesaplar.
     * İşlem önceliği seçimi (Parantez içi öncelik veya soldan sağa işlem) sunar.
-3.  **Dinamik Menü:** * `while` döngüsü ile program sürekli çalışır, kullanıcı "Çıkış" diyene kadar yeni hesaplamalar yapılabilir.
+3.  **Dinamik Menü:** * `while` döngüsü ile program sürekli çalışır, kullanıcı "Çıkış" (3 sayısı girene kadar) diyene kadar yeni hesaplamalar yapılabilir.
 
 ### Kurulum ve Çalıştırma
 
