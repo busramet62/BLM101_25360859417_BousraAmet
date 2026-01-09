@@ -1,4 +1,4 @@
-## BLM101_25360859417_BousraAmet62
+## BLM101_25360859417_BousraAmet
 # TEMEL MANTIK DEVRE SİMÜLATÖRÜ 
 Öğrenci Bilgileri: 
 * İsim : Bousra
