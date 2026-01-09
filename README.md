@@ -5,7 +5,7 @@
 * Soyisim : AMET
 * Öğrenci no : 25360859417
 * Proje Konusu: 3. Grup- Veri Manipülasyonu ve Mantık Kapıları
-* Youtube : 
+* Youtube Video Linki: <https://www.youtube.com/watch?v=1DJnXelpsaI>
 
 ### Projenin özeti :
 Bu Python projesi, temel mantık kapılarını (AND, OR, NOT, XOR, NAND, NOR) simüle eden ve kullanıcı çıkış yapana kadar sürekli çalışan interaktif bir terminal uygulamasıdır. Program iki temel işlev sunar: İlk olarak, kullanıcının seçtiği belirli bir mantık kapısı için girilen 0 veya 1 değerlerine göre anlık işlem sonucu üretir; ikinci olarak ise üç değişkenli (A, B, C) daha karmaşık mantık devreleri için işlem önceliğini (parantez yerini) dikkate alarak tüm olası giriş kombinasyonlarını hesaplayıp detaylı bir doğruluk tablosu oluşturur. Kod yapısı, iç içe döngüler ve koşullu ifadeler kullanarak Boolean cebiri mantığını pratik bir şekilde kodlamayı amaçlar.
